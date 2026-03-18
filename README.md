@@ -1,4 +1,3 @@
-# todo-app-server
 # Todo App Client
 
 This is the frontend for the Todo App. It's a simple, single-page application built with HTML, CSS, and JavaScript that communicates with the backend server.
